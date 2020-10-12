@@ -1,1 +1,3 @@
 # misc
+
+Miscellaneous projects/exercises.
